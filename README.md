@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+> **Status: Original AIFFEL course and peer-review archive**
+>
+> This repository preserves an original AIFFEL training and peer-review snapshot. It may include course-provided materials, shared artifacts, or contributions from multiple participants and is not presented as sole-authored research.
+>
+> Curated portfolio: [AIFFEL Applied Deep Learning Portfolio](https://github.com/PeterYYong/AIFFEL_quest_rs)
+>
+> The original README and repository history are retained below for provenance.
+
+---
+
 # AIFFEL_quest_rs
 - 아이펠 과정에서 진행하는 퀘스트 및 프로젝트 수정 및 업로드
 - 언제나 화이팅!!
